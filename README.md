@@ -1,1 +1,3 @@
-# example-kount-package
+# KountAnalyticsPackage
+
+A description of this package.
