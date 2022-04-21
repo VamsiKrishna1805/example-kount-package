@@ -1,9 +1,0 @@
-framework module KountDataCollector {
-umbrella header “KDataCollector.h”
-umbrella header “KountAnalyticsViewController.h”
-
-export *
-Module * {
-    export *
-}
-}
